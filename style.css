@@ -2,14 +2,14 @@
   padding-top: 250px;
   width:100%;
   height:600px;
-  background-image: url("img.tukuppt.com/ad_preview/00/05/89/5c98e2cdbc386.jpg!/fw/780");
+  background-image: url("https://i.pinimg.com/736x/b8/0e/88/b80e880bb85abacc4958375477ec4ed3.jpg");
 }
 
 .quote{
   width: 50%;
   margin: 0 auto;
   font-size: 50px;
-  color: grey;
+  color: gray;
   padding-left: 20px;
   border-left: 10px solid #BEBEBE;
 }
